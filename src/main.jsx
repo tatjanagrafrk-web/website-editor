@@ -234,7 +234,7 @@ function App() {
         ))}
       </section>
       <footer className="site-footer">
-        <small>© All rights reserved by tatjana.graf</small>
+        <small>© All rights reserved by @tatjana.graf</small>
       </footer>
       <dialog
         ref={dialog}
