@@ -233,6 +233,9 @@ function App() {
           </button>
         ))}
       </section>
+      <footer className="site-footer">
+        <small>© All rights reserved by tatjana.graf</small>
+      </footer>
       <dialog
         ref={dialog}
         className="glass modal"

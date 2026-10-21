@@ -1084,3 +1084,17 @@ h1 {
 .world {
   overflow: clip;
 }
+
+.site-footer {
+  position: relative;
+  width: min(100%, 1000px);
+  margin: 48px auto 0;
+  padding: 0 12px;
+  text-align: center;
+  color: #421b72;
+  text-shadow: 0 1px 8px #fff9;
+}
+.site-footer small {
+  font-size: 12px;
+  line-height: 1.8;
+}
